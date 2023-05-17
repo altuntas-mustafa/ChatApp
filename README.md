@@ -7,11 +7,11 @@ These instructions will guide you on how to set up and run the Chat App locally 
 ## Prerequisites
 Before running the Chat App, make sure you have the following software installed:
 
-### PHP 7.4 or higher
-### Composer
-### MySQL
-### Installing
-### Clone the repository:
+##### PHP 7.4 or higher
+##### Composer
+##### MySQL
+##### Installing
+##### Clone the repository:
 
 ### bash
 git clone https://github.com/your-username/chat-app.git or use zip file
