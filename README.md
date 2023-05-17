@@ -16,28 +16,19 @@ Before running the Chat App, make sure you have the following software installed
 
 ### Installing
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/chat-app.git
-   ```
-
-2. Install the dependencies using Composer:
+1. Install the dependencies using Composer:
 
    ```bash
    cd chat-app
    composer install
    ```
-
-3. Configure the database connection by editing the `config.php` file.
-
-4. Start the PHP development server:
+2. Start the PHP development server:
 
    ```bash
    php -S localhost:8000 -t public
    ```
 
-5. Open your browser and access the Chat App at [http://localhost:8000](http://localhost:8000).
+3. Open your browser and access the Chat App at [http://localhost:8000/groups](http://localhost:8000/groups).
 
 ## Usage
 
